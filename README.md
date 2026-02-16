@@ -1,0 +1,2 @@
+# TermCollab
+Collaboration inside terminals!
